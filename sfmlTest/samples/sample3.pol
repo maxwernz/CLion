@@ -1,0 +1,36 @@
+p1: 1 2 3
+p2: 4 5 6
+p3: 7 8
+
+show p1 p2
+echo Berechne a1 = p1 + p2
+add a1 p1 p2 
+show a1
+echo Berechne a2 = p1 + p2
+add a2 p1 p2 
+show a2
+show p1 p3
+echo Berechne a3 = p1 + p3
+add a3 p1 p3
+show a3
+echo Berechne a4 = p3 + p1
+add a4 p3 p1
+show a4
+p4: 1 2 3
+p5: -1 2 -3
+echo Berechne a5 = p4 + p5
+show p4 p5
+add a5 p4 p5
+show a5
+p4: 9.8  7.6 5.4   3.2   1 0.1
+p5: 1.2 -7.6 -5.4 -3.19 -1 0.000001
+show p4 p5
+add a5 p4 p5
+show a5
+show p1 p3
+mul a6 p1 p3
+show a6
+
+
+# nach dem Leeren hat der finale Dump keinen Effekt
+clear

@@ -1,0 +1,30 @@
+lese von sample2.pol
+alle Polynome 
+a1: 1.2*x**2 + 3.4*x + 5.6
+p1: 17
+p2: 1*x
+p3: 1*x**2
+Werte p1 aus 
+p1: 17
+p1(1) = 17
+p1(2) = 17
+p1(3) = 17
+Werte p2 aus 
+p2: 1*x
+p2(1) = 1
+p2(2) = 2
+p2(3) = 3
+Werte p3 aus 
+p3: 1*x**2
+p3(1) = 1
+p3(2) = 4
+p3(3) = 9
+Werte a1 aus 
+a1: 1.2*x**2 + 3.4*x + 5.6
+a1(1) = 10.2
+a1(2) = 17.2
+a1(3) = 26.6
+Loesche p1 und p2 und dumpe 
+a1: 1.2*x**2 + 3.4*x + 5.6
+p3: 1*x**2
+nach einem Leeren hat der finale Dump keinen Effekt mehr 
