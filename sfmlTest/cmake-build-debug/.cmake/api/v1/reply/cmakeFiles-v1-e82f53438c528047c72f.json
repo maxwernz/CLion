@@ -54,6 +54,21 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeFindCodeBlocks.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/ProcessorCount.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
 			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22/Modules/CMakeCInformation.cmake"
 		},
 		{
@@ -148,23 +163,23 @@
 		},
 		{
 			"isExternal" : true,
-			"path" : "/opt/homebrew/lib/cmake/SFML/SFMLConfigVersion.cmake"
+			"path" : "/usr/local/lib/cmake/SFML/SFMLConfigVersion.cmake"
 		},
 		{
 			"isExternal" : true,
-			"path" : "/opt/homebrew/lib/cmake/SFML/SFMLConfig.cmake"
+			"path" : "/usr/local/lib/cmake/SFML/SFMLConfig.cmake"
 		},
 		{
 			"isExternal" : true,
-			"path" : "/opt/homebrew/lib/cmake/SFML/SFMLSharedTargets.cmake"
+			"path" : "/usr/local/lib/cmake/SFML/SFMLSharedTargets.cmake"
 		},
 		{
 			"isExternal" : true,
-			"path" : "/opt/homebrew/lib/cmake/SFML/SFMLSharedTargets-release.cmake"
+			"path" : "/usr/local/lib/cmake/SFML/SFMLSharedTargets-release.cmake"
 		},
 		{
 			"isExternal" : true,
-			"path" : "/opt/homebrew/lib/cmake/SFML/SFMLConfigDependencies.cmake"
+			"path" : "/usr/local/lib/cmake/SFML/SFMLConfigDependencies.cmake"
 		}
 	],
 	"kind" : "cmakeFiles",
